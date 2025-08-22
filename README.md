@@ -24,7 +24,7 @@ academic collaboration with GEM and is not publicly accessible.
 
 ## Repository Contents
 
-Final_report.pdf: The full project report detailing the methodology, experiments, and results.
+[My file](Final_report (final).pdf): The full project report detailing the methodology, experiments, and results.
 
 src/: Directory containing the source code, including the deep learning model architecture and training scripts.
 
